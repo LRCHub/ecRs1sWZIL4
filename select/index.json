@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+  "base_artist": "Wu-Tang Clan",
+  "createdAt": "2026-03-18T13:13:00.636522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/01_C.R.E.A.M._(Cash_Rules_Everything_Around_Me)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "artist": "Wu‐Tang Clan",
+      "has_synced": true,
+      "path": "select/02_C.R.E.A.M._(Cash_Rules_Everything_Around_Me)_Wu‐Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": false,
+      "path": "select/03_C.R.E.A.M._(Cash_Rules_Everything_Around_Me)_Wu-Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C.R.E.A.M. (Cash Rules Everything Around Me) (Radio Edit)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": false,
+      "path": "select/04_C.R.E.A.M._(Cash_Rules_Everything_Around_Me)_(Radio_Edit)_Wu-Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "C.R.E.A.M. (Cash Rules Everything Around Me) (Album Version)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/05_C.R.E.A.M._(Cash_Rules_Everything_Around_Me)_(Album_Version)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "C.R.E.A.M. (Cash Rules Everything Around Me) [A Cappella]",
+      "artist": "Wu-Tang Clan",
+      "has_synced": false,
+      "path": "select/pl_01_C.R.E.A.M._(Cash_Rules_Everything_Around_Me)_[A_Cappella]_Wu-Tang_Clan.txt"
+    }
+  ]
+}
